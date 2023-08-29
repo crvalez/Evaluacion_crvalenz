@@ -4,23 +4,25 @@ author: "crvalenz"
 format: pdf
 ---
 
-## Quarto
+# Protocolo recuento bacteriano desde muestras de contenido intestinal
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Protocolo para la obtención de recuento de bacterias recuperables, a partir de contenido intestinal de salmon.
 
-## Running Code
+## Protocolo
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+1.  Recolectar muestras de heces de salmón (21 peces) en contenedor un estéril (bolsa estéril tipo Whirl-Pack 13x19 cm).
+2.  Almacenar las muestras a 4°C y transportar a laboratorio.
+3.  En laboratorio, homogenizar la muestra a fin de mezclar las heces de los distintos peces muestreados.
+4.  Tomar entre 1 a 5 g de muestras de heces y transferir a contenedor estéril nuevo (tubo cónico de 15 o 50 ml dependiendo de la cantidad de muestra a usar).
+5.  Agregar un volumen de solución salina estéril (NaCl 0,9%) igual a nueve veces el peso de la muestra (ej.: para 5 g de muestra agregar 45 ml de Solución salina, por 4,3 g de muestra agregar 38,7 ml de solución salina).
+6.  Homogenizar por agitación y el contenedor con la muestra diluida. En este punto, la muestra se encuentra diluida diez veces (dilución -1).
+7.  Realizar 5 diluciones decimales seriadas en solución salina.
+8.  Antes de inocular las muestras, secar las placas por 15 minutos en condiciones de esterilidad (las placas pueden ser dejadas abiertas dentro de un gabinete de bioseguridad funcionando).
+9.  Con las diluciones -5, -4 y -3, inocular placas de TSA2.
+10. Con las diluciones -5, -4 y -3, inocular placas con TSA2 con Florfenicol (30 µg/mL).
+11. Con las diluciones -3, -2 y -1 inocular placas con TSA2 con Oxitetraciclina (30 µg/mL).
+12. Inocular con 0,1 ml de cada dilución, en triplicado, diseminando la muestra con rastrillo de vidrio o asa Digralsky esterilizada previamente (flamear el rastrillo de vidrio con alcohol entre cada placa). Diseminar la muestra hasta que esta se absorba completamente (al absorberse la muestra observará un poco de resistencia para pasar el restrillo por el agar).
+13. Cada dilución debe sembrase en triplicado en cada uno de los distintos medios utilizados.
+14. Incubar las placas a 20°C por hasta 5 días, revisando el desarrollo de colonias diariamente.
+15. Hacer recuento del número de colonias en aquellas placas que tengan entre 30 a 300 colonias, en el equipo SCAN 500, dejando registro de las placas procesadas.
+16. Informar resultado en ufc/g.
