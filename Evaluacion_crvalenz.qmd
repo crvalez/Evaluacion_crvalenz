@@ -29,7 +29,7 @@ Protocolo para la obtención de recuento de bacterias recuperables, a partir de 
 
 ## Esquema
 
-![](images/Esquema.png){fig-align="center"}
+![](images/Esquema.png){fig-align="center" width="406"}
 
 ## Referencia Bibliográfica
 
