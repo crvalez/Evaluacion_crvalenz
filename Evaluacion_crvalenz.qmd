@@ -26,3 +26,7 @@ Protocolo para la obtención de recuento de bacterias recuperables, a partir de 
 14. Incubar las placas a 20°C por hasta 5 días, revisando el desarrollo de colonias diariamente.
 15. Hacer recuento del número de colonias en aquellas placas que tengan entre 30 a 300 colonias, en el equipo SCAN 500, dejando registro de las placas procesadas.
 16. Informar resultado en ufc/g.
+
+## Referencia Bibliográfica
+
+Miranda CD. y Rojas R. (2007). Occurrence of florfenicol resistance in bacteria associated with two Chilean salmon farms with different history of antibacterial usage. Aquaculture 266, 39--46.
